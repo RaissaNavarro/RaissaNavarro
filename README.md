@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/RaissaNavarro">
+  <a href="https://github.com/Dorivis">
     <img src="logo.png" height="250" width="250" alt="Unform" />
   </a>
 </p>
@@ -14,14 +14,15 @@
 
 ## Um pouquinho sobre mim
 
+Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho nacionalidade brasileira, e moro em Campinas/SP e sou apaixonado por Programação, Ciência de Dados e tudo que envolva esse mundo de dados e tambem sou apaixonado por animais! Sou entusiasta do mundo dos dados,e quanto mais eu aprendo, mais eu amo tudo isso!
 
-- 🔭 
-- 👨‍🎓  
-- 📚 
-- 👯 
-- 🤔 
-- 💬 
-- ⚡ 
+- 🔭 Faço parte da equipe de professores do SENAI
+- 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
+- 📚 Estudo sobre assuntos diversos de Ciência de Dados
+- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
+- 🤔 Estou procurando algum cargo como Cientista de Dados
+- 💬 Pergunte-me sobre o que tiver duvida.
+- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -34,12 +35,21 @@
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
           
+          
+          
+## Contatos:
+
+📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+</br>
+
+
+<br/>
 
 
 <div>
-<a href="https://github.com/RaissaNavarro">
-<img loading="lazy" height="180em" src=""/>
-<img loading="lazy" height="180em" src=""/>
+<a href="https://github.com/Dorivis">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 
@@ -52,7 +62,3 @@
 
 
 ![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
