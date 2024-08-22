@@ -47,18 +47,7 @@ Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campin
 <br/>
 
 
-<div>
-<a href="https://github.com/Dorivis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
 
-<br/>
-
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
 
 
 
