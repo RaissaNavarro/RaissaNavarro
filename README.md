@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://github.com/Dorivis">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
-  </a>
-</p>
 
 <div dsplay="inline-block">
 
