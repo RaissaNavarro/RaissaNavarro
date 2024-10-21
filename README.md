@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campinas/SP e sou apaixonada por Programação, e todas as coisas que envolvam raciocinio lógico!
+Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campinas/SP e sou apaixonada por Programação, e todas as coisas que envolvem raciocinio lógico!
 
 - 📚 Estudo sobre diversos assuntos que envolvam programação.
 - 👯 Estou procurando me desenvolver na área de back-end.
