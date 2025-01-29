@@ -32,7 +32,8 @@ Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campin
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
           
-          
+![](https://raw.githubusercontent.com/RaissaNavarro/github-stats-transparent/output/generated/languages.svg)
+    
           
 ## Contatos:
 
