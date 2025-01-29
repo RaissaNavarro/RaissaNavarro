@@ -17,10 +17,8 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 ## Contatos:
 
-📫 <a href="mailto:raissanavarro66@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-[!(https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)(https://www.linkedin.com/in/raissanavarro/) 
-</br>
+📫 [![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/raissanavarro/) 
+
 
 
 <br/>
