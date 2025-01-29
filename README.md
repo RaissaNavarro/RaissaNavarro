@@ -36,7 +36,9 @@ Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campin
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](raissanavarro66@gmail.com) ou pelo [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raissanavarro/) 
+📫 <a href="mailto:raissanavarro66@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raissanavarro/) 
 </br>
 
 
