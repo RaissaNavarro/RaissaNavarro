@@ -6,10 +6,8 @@
 
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-## Hi, I'm Raissa!
+<h1 align="center">Hi there, I'm <a href="https://www.RaissaNavarro.win/" target="_blank">Raissa Navarro</a> <img
+src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" height="32" /></h1>
 
 Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campinas/SP e sou apaixonada por Programação e todas as coisas que envolvem raciocinio lógico!
 
