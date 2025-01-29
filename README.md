@@ -8,7 +8,7 @@
 
 
 
-## Hi, I'am Raissa!
+## Hi, I'm Raissa!
 
 Prazer me chamo Raissa Navarro, tenho 18 anos, nasci no Brasil, e moro em Campinas/SP e sou apaixonada por Programação e todas as coisas que envolvem raciocinio lógico!
 
