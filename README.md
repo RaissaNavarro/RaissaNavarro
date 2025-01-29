@@ -17,7 +17,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 ## Contatos:
 
-📫 [![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/raissanavarro/) 
+📫 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
 
 
 
