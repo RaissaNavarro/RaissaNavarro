@@ -19,7 +19,11 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 📫 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
 
+<div>
+![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaissaNavarro&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
 
+</div>
 
 
 
