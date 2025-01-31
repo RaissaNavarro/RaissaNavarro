@@ -10,14 +10,12 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 
-### 🖥️ Languages and Tools: 
+### 🖥️ Languages & Tools & Frameworks: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring)](https://skillicons.dev)
 
 
-## Contatos:
-
-📫 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
