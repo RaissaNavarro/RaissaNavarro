@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/raissanavarro//" target="_blank">Raissa Navarro</a> <img
-src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" height="32" 👋/></h1>
 
 
 
