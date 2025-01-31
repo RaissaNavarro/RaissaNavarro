@@ -21,7 +21,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=compact&theme=transparent)
 
 
 <br/>
