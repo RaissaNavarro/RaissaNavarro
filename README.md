@@ -10,9 +10,13 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 
-### 🖥️ Languages & Tools & Frameworks: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring)](https://skillicons.dev)
+<p align="center">
+  <h1> 🖥️ Languages & Tools & Frameworks: </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring" alt="Skills"/>
+  </a>
+</p>
 
 
 <p align="center">
