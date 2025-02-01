@@ -15,13 +15,23 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 [![My Skills](https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring)](https://skillicons.dev)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent" height="150"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent&card_width=300" height="150"/>
+</p>
 
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
-[![](https://skillicons.dev/icons?i=gmail)](https://www.raissanavarro66@gmail.com/) 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/raissanavarro/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raissanavarro66@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</p>
 
 <br/>
 
