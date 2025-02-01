@@ -16,7 +16,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
-<img src="https://skillicons.dev/icons?i=gmail" />
+[![](https://skillicons.dev/icons?i=gmail)](https://www.raissanavarro66@gmail.com/) 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
