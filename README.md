@@ -16,10 +16,10 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent)
 
 
