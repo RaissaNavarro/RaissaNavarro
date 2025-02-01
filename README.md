@@ -15,12 +15,12 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 [![My Skills](https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring)](https://skillicons.dev)
 
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
-[![](https://skillicons.dev/icons?i=gmail)](https://www.raissanavarro66@gmail.com/) 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent)
+
+
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raissanavarro/) 
+[![](https://skillicons.dev/icons?i=gmail)](https://www.raissanavarro66@gmail.com/) 
 
 
 <br/>
