@@ -24,9 +24,9 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent" height="150"/>
+    <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=transparent" height="200"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent&card_width=300" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent&card_width=300" height="200"/>
 </p>
 
 
