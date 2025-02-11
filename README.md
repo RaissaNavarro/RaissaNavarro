@@ -23,7 +23,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=dark" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=dark&card_width=200" height="200"/>
 </p>
 
