@@ -17,7 +17,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring,html,css,java,angular,ts" alt="Skills"/>
   </a>
-</p>
+</p>c
 
 
 <h3 align="center">📊 GitHub Stats:</h3>
@@ -32,14 +32,13 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 <h3 align="center">📬 Let's Connect:</h3>
 
+<h3 align="center">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/raissanavarro/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:raissanavarro66@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=RaissaNavarro&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaNavarro&layout=donut&theme=transparent&card_width=300" height="200"/>
 </p>
+
 
 <br/>
 
