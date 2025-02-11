@@ -21,6 +21,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 
 <h3 align="center">📊 GitHub Stats:</h3>
+<img src=[![GitHub Streak](https://streak-stats.demolab.com/?user=RaissaNavarro&theme=dark)](https://git.io/streak-stats)/>
 
 <p align="center">
   </a>
