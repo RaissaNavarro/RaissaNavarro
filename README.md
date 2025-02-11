@@ -31,6 +31,15 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
 
 <h3 align="center">📬 Let's Connect:</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/raissanavarro/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raissanavarro66@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</p>
+
 
 
 <br/>
