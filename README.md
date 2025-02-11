@@ -17,7 +17,7 @@ src="https://github.com/RaissaNavarro/RaissaNavarro/raw/main/images/Hi.gif" heig
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,django,fastapi,react,spring,html,css,java,angular,ts" alt="Skills"/>
   </a>
-</p>c
+</p>
 
 
 <h3 align="center">📊 GitHub Stats:</h3>
